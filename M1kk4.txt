@@ -9,16 +9,10 @@ Hey There! <br> <!-- laglaglaglaglaglaglaglag -->
 
 <p>My name is M1kk4, and im a SOC analyst at <b>[REDACTED]</b>, a student and a wannabe pen tester and bug bounty hunter in my free time. </p> <!-- laglaglaglaglaglaglaglaglaglaglaglaglag -->
 
-
 <p>Planning to post more hacking walkthroughs and programming related projects! I also do 3D modeling and animation. </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-
 
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
-
-<p> You can give links to other professional profiles you have on Internet, here: <br/> <a href="https://tryhackme.com/p/Mikka">TryHackMe</a> <br/> <a href="https://www.linkedin.com/in/m1kk4/">LinkedIn</a> <br> <a href="https://www.artstation.com/m1kka">ArtStation</a>.</p>
-
-
-
+<p> You can give links to other professional profiles you have on Internet, here: <br/> <a href="https://tryhackme.com/p/Mikka">TryHackMe</a> <br/> <a href="https://www.linkedin.com/in/m1kk4/">LinkedIn</a> <br> <a href="https://www.artstation.com/m1kka">ArtStation</a></p>
 
 <p>Don't forget to drink some water and happy hacking!</p>
